@@ -37,9 +37,3 @@ El proyecto debe cumplir con:
 1.  **Repositorio Git Iniciado.**
 2.  **Estrategia de Ramas:** Existencia de al menos tres ramas: `main`, `feature/notas`, y `feature/aprueba`.
 3.  **Historial de Commits:** Historial limpio y descriptivo.
-
-### Comandos Clave
-
-* Crear rama: `git checkout -b nombre-rama`
-* Commit: `git commit -m "Descripción"`
-* Subir todo a GitHub: `git push --all origin`
